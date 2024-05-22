@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ajinkya/airflow_with_code_env/airflow/mlruns/521195690964601508/4e18a9d764d642b1865ddee39cd8c924/artifacts
+end_time: 1715807731317
+entry_point_name: ''
+experiment_id: '521195690964601508'
+lifecycle_stage: active
+run_id: 4e18a9d764d642b1865ddee39cd8c924
+run_name: rambunctious-dog-282
+run_uuid: 4e18a9d764d642b1865ddee39cd8c924
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715807720537
+status: 3
+tags: []
+user_id: ajinkya

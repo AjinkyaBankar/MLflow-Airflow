@@ -1,0 +1,6 @@
+artifact_location: file:///home/ajinkya/airflow_with_code_env/airflow/mlruns/521195690964601508
+creation_time: 1715807719152
+experiment_id: '521195690964601508'
+last_update_time: 1715807719152
+lifecycle_stage: active
+name: Wine Quality

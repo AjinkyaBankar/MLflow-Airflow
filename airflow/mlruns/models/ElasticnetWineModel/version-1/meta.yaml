@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1715807731313
+current_stage: None
+description: null
+last_updated_timestamp: 1715807731313
+name: ElasticnetWineModel
+run_id: 4e18a9d764d642b1865ddee39cd8c924
+run_link: null
+source: file:///home/ajinkya/airflow_with_code_env/airflow/mlruns/521195690964601508/4e18a9d764d642b1865ddee39cd8c924/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/ajinkya/airflow_with_code_env/airflow/mlruns/521195690964601508/4e18a9d764d642b1865ddee39cd8c924/artifacts/model
+user_id: null
+version: 1

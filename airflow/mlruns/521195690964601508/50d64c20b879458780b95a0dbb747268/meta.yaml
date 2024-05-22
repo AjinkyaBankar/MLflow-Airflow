@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ajinkya/airflow_with_code_env/airflow/mlruns/521195690964601508/50d64c20b879458780b95a0dbb747268/artifacts
+end_time: 1715807737154
+entry_point_name: ''
+experiment_id: '521195690964601508'
+lifecycle_stage: active
+run_id: 50d64c20b879458780b95a0dbb747268
+run_name: adorable-gnat-42
+run_uuid: 50d64c20b879458780b95a0dbb747268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715807737131
+status: 3
+tags: []
+user_id: ajinkya

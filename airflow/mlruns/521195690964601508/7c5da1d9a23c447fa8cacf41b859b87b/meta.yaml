@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ajinkya/airflow_with_code_env/airflow/mlruns/521195690964601508/7c5da1d9a23c447fa8cacf41b859b87b/artifacts
+end_time: 1715808005181
+entry_point_name: ''
+experiment_id: '521195690964601508'
+lifecycle_stage: active
+run_id: 7c5da1d9a23c447fa8cacf41b859b87b
+run_name: serious-stoat-914
+run_uuid: 7c5da1d9a23c447fa8cacf41b859b87b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715808005143
+status: 3
+tags: []
+user_id: ajinkya
