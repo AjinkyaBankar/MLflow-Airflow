@@ -1,7 +1,7 @@
 # MLflow Airflow Demo
 In this example, I train ElasticNet machine learning model for wine quality prediction using MLflow. 
 
-Important note: To avoid airflow not recognizing user defined modules, maintain the `airflow/dag` directory structure for custom modules as follows-
+Important note: To avoid airflow not recognizing user defined modules, maintain the `airflow/dags` directory structure for custom modules as follows-
 ```
 | .airflowignore  -- only needed in ``dags`` folder
 | -- my_company
