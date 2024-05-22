@@ -6,12 +6,9 @@ Important note: To avoid airflow not recognizing user defined modules, maintain 
 | .airflowignore  -- only needed in ``dags`` folder, see below
 | -- my_company
               | __init__.py
-              | common_package
-              |              |  __init__.py
-              |              | common_module.py
-              |              | subpackage
-              |                         | __init__.py
-              |                         | subpackaged_util_module.py
+              | common_packages
+              |               |  __init__.py
+              |               | common_module.py
               |
               | my_custom_dags
                               | __init__.py
